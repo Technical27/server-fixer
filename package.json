@@ -1,0 +1,15 @@
+{
+  "name": "server-fixer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "scripts": {
+    "lint": "eslint commands/* index.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
